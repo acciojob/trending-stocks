@@ -1,1 +1,4 @@
-//your JS code here. If required.
+async function trendingStocks(n) {
+   
+  }
+module.exports=trendingStocks;  
